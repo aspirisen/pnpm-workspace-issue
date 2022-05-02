@@ -1,0 +1,4 @@
+[submodule "slate"]
+	path = slate
+	url = git@github.com:prezly/slate.git
+	branch = master

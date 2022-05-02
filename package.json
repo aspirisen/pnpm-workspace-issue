@@ -1,0 +1,20 @@
+{
+  "name": "pnpm-workspace-issue",
+  "private": true,
+  "packageManager": "pnpm@7.0.0",
+  "pnpm": {
+    "overrides": {
+      "@prezly/slate-editor": "*",
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "@types/react": "^17.0.4",
+      "@types/react-dom": "^17.0.1",
+      "slate": "^0.77.2",
+      "slate-history": "^0.66.0",
+      "slate-react": "^0.77.2"
+    }
+  },
+  "devDependencies": {
+    "pnpm": "^7.0.0"
+  }
+}
