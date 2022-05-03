@@ -1,5 +1,6 @@
 prefer-workspace-packages: true
 packages:
-  - "app"
   - "slate"
   - "slate/packages/*"
+  - "content-renderer-react-js"
+  - "app"

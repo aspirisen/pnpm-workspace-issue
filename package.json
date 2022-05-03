@@ -2,9 +2,10 @@
   "name": "pnpm-workspace-issue",
   "private": true,
   "packageManager": "pnpm@7.0.0",
+  "prefer-workspace-packages": true,
   "pnpm": {
+    "prefer-workspace-packages": true,
     "overrides": {
-      "@prezly/slate-editor": "*",
       "react": "^17.0.2",
       "react-dom": "^17.0.2",
       "@types/react": "^17.0.4",

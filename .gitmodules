@@ -2,3 +2,7 @@
 	path = slate
 	url = git@github.com:prezly/slate.git
 	branch = master
+[submodule "content-renderer-react-js"]
+	path = content-renderer-react-js
+	url = git@github.com:prezly/content-renderer-react-js.git
+	branch = master
